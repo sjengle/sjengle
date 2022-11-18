@@ -6,6 +6,6 @@ Learn more about me from my [essay on imposter syndrome](https://repository.usfc
 
 *Pronouns: [she/her](https://pronoun.is/she) (preferred) or [they/them](https://pronoun.is/they/.../themselves). Title: Sophie (preferred), Professor Engle, or Dr. Engle.* 
 
-[![Sophie Engle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjengle&show_icons=true&theme=transparent&count_private=true&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Sophie Engle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjengle&show_icons=true&theme=monokai&count_private=true&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sophie Engle's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sjengle&show_icons=true&theme=transparent&count_private=true&hide_rank=true&langs_count=5&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sophie Engle's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sjengle&show_icons=true&theme=monokai&count_private=true&hide_rank=true&langs_count=5&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
