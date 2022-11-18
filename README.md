@@ -5,3 +5,7 @@ I am an Associate Professor in the [Department of Computer Science](https://myus
 Learn more about me from my [essay on imposter syndrome](https://repository.usfca.edu/jips/vol2/iss1/7/), this [behind the scenes video](https://vimeo.com/289762602/30c246c503), or [my website](https://sjengle.cs.usfca.edu/). You can also follow me [@sjengle on Twitter](https://twitter.com/sjengle) if you don't mind an [occasional corgi photo](https://twitter.com/sjengle/status/939274325667885056?s=20).
 
 *Pronouns: [she/her](https://pronoun.is/she) (preferred) or [they/them](https://pronoun.is/they/.../themselves). Title: Sophie (preferred), Professor Engle, or Dr. Engle.* 
+
+[![Sophie Engle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjengle&show_icons=true&theme=transparent&count_private=true&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sophie Engle's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sjengle&show_icons=true&theme=transparent&count_private=true&hide_rank=true&langs_count=5&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
